@@ -1,3 +1,3 @@
 # Thuthukani
 First Web site code
- https://thulasizwem.github.io/Thuthukani/.index.html
+ https://thulasizwem.github.io/Thuthukani/index.html
